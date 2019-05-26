@@ -1,0 +1,29 @@
+products:
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount$$anonfun$1.class
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount$$anonfun$2.class
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount$$anonfun$3.class
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount$$anonfun$4.class
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount$$anonfun$5.class
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount$$anonfun$6.class
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount$$anonfun$7.class
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount$$anonfun$main$1.class
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount$.class
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\build\classes\main\WordCount.class
+binary dependencies:
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-catalyst_2.11\2.2.0\4d4dde44ff6513224fd105541061ad151c515f43\spark-catalyst_2.11-2.2.0.jar
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\.gradle\caches\modules-2\files-2.1\org.apache.spark\spark-core_2.11\2.2.0\f1e6dbc3b085eb4f889b903f452afcfc43aa08c6\spark-core_2.11-2.2.0.jar
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> C:\Users\pshep\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.11\e283d2b7fde6504f6a86458b1f6af465353907cc\scala-library-2.11.11.jar
+source dependencies:
+external dependencies:
+class names:
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount$
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount$$anonfun$1
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount$$anonfun$2
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount$$anonfun$3
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount$$anonfun$4
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount$$anonfun$5
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount$$anonfun$6
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount$$anonfun$7
+   C:\Users\pshep\Downloads\amcp-master\amcp-master\neuralnetwork\Spark\src\main\scala\WordCount.scala -> WordCount$$anonfun$main$1
